@@ -36,8 +36,7 @@ Clean and Organized Code: Maintain clean, well-structured, and commented code to
 Data Persistence: Implement data storage mechanisms, such as local storage or server-based databases, to save and retrieve tasks across sessions.\
 
 🎥 Demo Video
-https://github.com/Manya103/LGMVIP-Web-Task-01-TO-DO/assets/113758890/8a8383a5-5b0b-4f5f-99c8-0f7ee44f0781
-
+https://github.com/Manya103/LGMVIP-Web-Task-01-TO-DO/assets/113758890/058f883a-e7da-4a50-b445-40fe55c4f5ff
 
 Contributions
 Contributions to this Basic To-Do Web App project are welcome. If you'd like to contribute by adding features, improving design, fixing bugs, or enhancing usability, please fork the repository and create a pull request.
